@@ -1,4 +1,4 @@
-# Основной репозиторий курса. 
+# Основной репозиторий курса.
 
 
 
@@ -22,11 +22,13 @@
 
 
 
-\[Репозиторий курса для отчетов](https://github.com/nngdi/2025\_2026-introduction-in-web-tech-U4225-diachkova)
+([Репозиторий курса для отчетов](https://github.com/nngdi/2025_2026-introduction-in-web-tech-U4225-diachkova))
 
 
 
-План изучения DevOps
+
+
+**План изучения DevOps**
 
 
 
